@@ -27,7 +27,7 @@ Ensure the following are installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Powered-Question-Generator-App.git
+   git clone https://github.com/lakruwan1/AI-Powered-Question-Generator-App.git
    cd AI-Powered-Question-Generator-App
    ```
 
